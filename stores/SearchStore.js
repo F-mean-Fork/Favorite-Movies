@@ -2,7 +2,7 @@ import {defineStore} from 'pinia'
 import { useMovieStore } from './MovieStore';
 import {ref} from 'vue'
 
-const url = "https:api.themoviedb.org/3/search/movie?api_key=02708c4929ad93aa5e68f8ee7bfa4445&query=";
+const url = "https:api.themoviedb.org/3/search/movie?api_key=5e626bfc97ba377357c200751c444aa5";
 
 // export const useSearchStore = defineStore("searchStore", {
 //     state: () => ({
